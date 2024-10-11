@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo -i -u bett
+sudo -u betty -i
+

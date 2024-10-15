@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p 'Enter a list of words separated by spaces: ' words; echo $words | tr ' ' '\n'
+read 

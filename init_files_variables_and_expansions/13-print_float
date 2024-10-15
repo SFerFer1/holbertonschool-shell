@@ -1,3 +1,2 @@
 #!/bin/bash
 export NUM=534.456; printf "%.2f\n" "$NUM"
-

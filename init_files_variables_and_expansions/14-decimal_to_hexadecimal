@@ -1,4 +1,2 @@
 #!/bin/bash
 printf "%X\n" "${DECIMAL:-0}"
-
-

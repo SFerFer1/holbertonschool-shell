@@ -1,2 +1,2 @@
 #!/bin/bash
-xargs -I {} find {} -type d 2>/dev/null | grep -c '^'
+ls  $PATH | wc -l

@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir "$PWD/action"
+mkdir -p "$PWD/action"

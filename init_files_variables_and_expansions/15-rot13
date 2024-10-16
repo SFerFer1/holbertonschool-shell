@@ -1,0 +1,2 @@
+#!/bin/bash
+$ echo Piyush |tr [a-z] [n-z][a-m]

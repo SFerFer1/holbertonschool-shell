@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%s\n' "$LINE" 
+awk 'NR % 2 == 1
